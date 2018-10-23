@@ -1,6 +1,6 @@
-# AthenaFunctionForUSQL
+# AthenaFunctionsForUSQL
 
-C# implementation of Athena functions for quick use in USQL scripts
+C# implementation of Athena functions for USQL scripts
 
 ## String Functions
 
